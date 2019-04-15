@@ -1,6 +1,8 @@
 # Rede Social Recipe Book
 O Recipe Book é um projeto proposto pela Laboratória com o intuito de criar uma Rede Social de acordo com um tema específico. Escolhemos o tema Alimentação.
 
+[Site](https://recipebook-squad4.firebaseapp.com/)
+
 ## Autoria
 O projeto foi desenvolvido por: **Ligia de Lucca**, **Vanessa Yoshida** e **Yara Oliveira**.
 
