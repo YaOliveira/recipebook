@@ -1,6 +1,9 @@
 # Rede Social Recipe Book
 O Recipe Book é um projeto proposto pela Laboratória com o intuito de criar uma Rede Social de acordo com um tema específico. Escolhemos o tema Alimentação.
 
+## Autoria
+O projeto foi desenvolvido por: **Ligia de Lucca**, **Vanessa Yoshida** e **Yara Oliveira**.
+
 ## Índice
 
 * [Resumo do Projeto](#Resumo-do-Projeto)
@@ -22,9 +25,6 @@ O Recipe book vem com o objetivo de ajudar as pessoas a melhorar sua alimentaç�
 * [Linguagem de programação](#Linguagem-de-programação)
 Essa página foi desenvolvida em JavaScript (ES6+), HTML e CSS.
 Foi utilizado o Framework Bootstrap v4, a biblioteca JQuery para manipulação do DOM e o banco de dados Firebase.
-
-## Autoria
-O projeto foi desenvolvido por: **Ligia de Lucca**, **Vanessa Yoshida** e **Yara Oliveira**.
 
 # Definição do Produto
 ## Personas
