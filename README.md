@@ -3,6 +3,8 @@ O Recipe Book é um projeto proposto pela Laboratória com o intuito de criar um
 
 [Site](https://recipebook-squad4.firebaseapp.com/)
 
+![Layout](/public/assets/img/recipebook.png)
+
 ## Autoria
 O projeto foi desenvolvido por: **Ligia de Lucca**, **Vanessa Yoshida** e **Yara Oliveira**.
 
